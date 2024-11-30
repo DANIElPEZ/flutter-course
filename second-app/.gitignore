@@ -1,0 +1,11 @@
+.dart_tool/
+.idea/
+/android
+/build
+/ios
+/test
+*.metadata
+*.yaml
+*.iml
+*.lock
+*.md

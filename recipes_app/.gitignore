@@ -1,0 +1,14 @@
+.dart_tool/
+.idea/
+/android
+/build
+/ios
+/test
+*.env
+*.flutter-plugins
+*.flutter-plugins-dependencies
+*.metadata
+*.yaml
+*.iml
+*.lock
+*.md

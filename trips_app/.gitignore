@@ -1,0 +1,14 @@
+.dart_tool/
+.idea/
+/android
+/build
+/ios
+/test
+/lib/firebase_options.dart
+*.metadata
+*.yaml
+*.iml
+*.lock
+*.json
+*.md
+*.log
